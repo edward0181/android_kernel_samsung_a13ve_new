@@ -1,0 +1,3 @@
+DEFCONFIG=a13ve_defconfig
+POST_DEFCONFIG_CMDS=""
+
